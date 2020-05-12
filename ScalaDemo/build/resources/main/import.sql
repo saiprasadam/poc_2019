@@ -1,0 +1,8 @@
+-- insert into userInfo(id, name, address, zip) values (1, 'sai', 'Test Street 1', '98888382');
+-- insert into hotel(id, name, address, zip) values (2, 'siva', 'Test Street 2', '988883121');
+-- insert into hotel(id, name, address, zip) values (3, 'Teja', 'Test Street 3', '98888212');
+-- insert into hotel(id, name, address, zip) values (4, 'krish', 'Test Street 4', '98888902');
+--CREATE TABLE authorities (id bigint auto_increment not null, username varchar_ignorecase(50) not null, authority varchar_ignorecase(50) not null, constraint fk_authorities_users foreign key(username) references users(username));--
+-- CREATE TABLE users (id bigint auto_increment not null, username varchar_ignorecase(50) not null, password varchar_ignorecase(50) not null, ); --
+--INSERT INTO Users (id, username, password,enabled) VALUES (1, 'root', 'root', true), (2, 'user', 'user', true);--
+--INSERT INTO authorities (id, username, authority) VALUES (1, 'root', 'ROLE_user'), (2, 'root', 'ROLE_admin'), (3, 'user', 'ROLE_user');--

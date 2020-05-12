@@ -1,0 +1,58 @@
+products:
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\Application.scala -> D:\workspace\poc1_dem\ScalaDemo\build\classes\scala\main\com\scala\demo\Application$.class
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\Application.scala -> D:\workspace\poc1_dem\ScalaDemo\build\classes\scala\main\com\scala\demo\Application$delayedInit$body.class
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\Application.scala -> D:\workspace\poc1_dem\ScalaDemo\build\classes\scala\main\com\scala\demo\Application.class
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\AppStarter.scala -> D:\workspace\poc1_dem\ScalaDemo\build\classes\scala\main\com\scala\demo\AppStarter.class
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\Controller\RootController.scala -> D:\workspace\poc1_dem\ScalaDemo\build\classes\scala\main\com\scala\demo\Controller\RootController.class
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\Controller\UserController.scala -> D:\workspace\poc1_dem\ScalaDemo\build\classes\scala\main\com\scala\demo\Controller\UserController.class
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\DbConfig.scala -> D:\workspace\poc1_dem\ScalaDemo\build\classes\scala\main\com\scala\demo\DbConfig.class
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\dto\UserInfo.scala -> D:\workspace\poc1_dem\ScalaDemo\build\classes\scala\main\com\scala\demo\dto\UserInfo.class
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\repository\UserRepository.scala -> D:\workspace\poc1_dem\ScalaDemo\build\classes\scala\main\com\scala\demo\repository\UserRepository.class
+binary dependencies:
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\Application.scala -> C:\Program Files\Java\jdk1.8.0_162\jre\lib\rt.jar
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\Application.scala -> C:\Users\saiprasad.mahadevan\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.12.2\fe9780170207ebdabd4ac5bb335c82bd0aead480\scala-library-2.12.2.jar
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\Application.scala -> C:\Users\saiprasad.mahadevan\.gradle\caches\modules-2\files-2.1\org.springframework.boot\spring-boot\1.5.3.RELEASE\5fedde3489afd5dbd82f9122aaec4c9f6da3d564\spring-boot-1.5.3.RELEASE.jar
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\Application.scala -> C:\Users\saiprasad.mahadevan\.gradle\caches\modules-2\files-2.1\org.springframework\spring-context\4.3.8.RELEASE\944073ac58ab78b78a7694d2c53d4ae9f634c815\spring-context-4.3.8.RELEASE.jar
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\AppStarter.scala -> C:\Program Files\Java\jdk1.8.0_162\jre\lib\rt.jar
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\AppStarter.scala -> C:\Users\saiprasad.mahadevan\.gradle\caches\modules-2\files-2.1\org.springframework.boot\spring-boot-autoconfigure\1.5.3.RELEASE\b2b4d4a704f039bf22787cc412b1dd34741821fc\spring-boot-autoconfigure-1.5.3.RELEASE.jar
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\Controller\RootController.scala -> C:\Program Files\Java\jdk1.8.0_162\jre\lib\rt.jar
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\Controller\RootController.scala -> C:\Users\saiprasad.mahadevan\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.12.2\fe9780170207ebdabd4ac5bb335c82bd0aead480\scala-library-2.12.2.jar
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\Controller\RootController.scala -> C:\Users\saiprasad.mahadevan\.gradle\caches\modules-2\files-2.1\org.springframework\spring-context\4.3.8.RELEASE\944073ac58ab78b78a7694d2c53d4ae9f634c815\spring-context-4.3.8.RELEASE.jar
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\Controller\RootController.scala -> C:\Users\saiprasad.mahadevan\.gradle\caches\modules-2\files-2.1\org.springframework\spring-web\4.3.8.RELEASE\ec1b675c2e234b0c776d36ed56c691520030026f\spring-web-4.3.8.RELEASE.jar
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\Controller\UserController.scala -> C:\Program Files\Java\jdk1.8.0_162\jre\lib\rt.jar
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\Controller\UserController.scala -> C:\Users\saiprasad.mahadevan\.gradle\caches\modules-2\files-2.1\javax.validation\validation-api\1.1.0.Final\8613ae82954779d518631e05daa73a6a954817d5\validation-api-1.1.0.Final.jar
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\Controller\UserController.scala -> C:\Users\saiprasad.mahadevan\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.12.2\fe9780170207ebdabd4ac5bb335c82bd0aead480\scala-library-2.12.2.jar
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\Controller\UserController.scala -> C:\Users\saiprasad.mahadevan\.gradle\caches\modules-2\files-2.1\org.springframework.boot\spring-boot-autoconfigure\1.5.3.RELEASE\b2b4d4a704f039bf22787cc412b1dd34741821fc\spring-boot-autoconfigure-1.5.3.RELEASE.jar
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\Controller\UserController.scala -> C:\Users\saiprasad.mahadevan\.gradle\caches\modules-2\files-2.1\org.springframework.data\spring-data-commons\1.13.3.RELEASE\f8be49f9564b7b8736d8f1ebb55bbf4997c29514\spring-data-commons-1.13.3.RELEASE.jar
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\Controller\UserController.scala -> C:\Users\saiprasad.mahadevan\.gradle\caches\modules-2\files-2.1\org.springframework\spring-beans\4.3.8.RELEASE\9d39133bb80e13d643bfefd731fe86cab3aa2bd7\spring-beans-4.3.8.RELEASE.jar
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\Controller\UserController.scala -> C:\Users\saiprasad.mahadevan\.gradle\caches\modules-2\files-2.1\org.springframework\spring-context\4.3.8.RELEASE\944073ac58ab78b78a7694d2c53d4ae9f634c815\spring-context-4.3.8.RELEASE.jar
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\Controller\UserController.scala -> C:\Users\saiprasad.mahadevan\.gradle\caches\modules-2\files-2.1\org.springframework\spring-web\4.3.8.RELEASE\ec1b675c2e234b0c776d36ed56c691520030026f\spring-web-4.3.8.RELEASE.jar
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\DbConfig.scala -> C:\Program Files\Java\jdk1.8.0_162\jre\lib\rt.jar
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\DbConfig.scala -> C:\Users\saiprasad.mahadevan\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.12.2\fe9780170207ebdabd4ac5bb335c82bd0aead480\scala-library-2.12.2.jar
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\DbConfig.scala -> C:\Users\saiprasad.mahadevan\.gradle\caches\modules-2\files-2.1\org.springframework.boot\spring-boot\1.5.3.RELEASE\5fedde3489afd5dbd82f9122aaec4c9f6da3d564\spring-boot-1.5.3.RELEASE.jar
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\DbConfig.scala -> C:\Users\saiprasad.mahadevan\.gradle\caches\modules-2\files-2.1\org.springframework.data\spring-data-commons\1.13.3.RELEASE\f8be49f9564b7b8736d8f1ebb55bbf4997c29514\spring-data-commons-1.13.3.RELEASE.jar
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\DbConfig.scala -> C:\Users\saiprasad.mahadevan\.gradle\caches\modules-2\files-2.1\org.springframework\spring-beans\4.3.8.RELEASE\9d39133bb80e13d643bfefd731fe86cab3aa2bd7\spring-beans-4.3.8.RELEASE.jar
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\DbConfig.scala -> C:\Users\saiprasad.mahadevan\.gradle\caches\modules-2\files-2.1\org.springframework\spring-context\4.3.8.RELEASE\944073ac58ab78b78a7694d2c53d4ae9f634c815\spring-context-4.3.8.RELEASE.jar
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\dto\UserInfo.scala -> C:\Program Files\Java\jdk1.8.0_162\jre\lib\rt.jar
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\dto\UserInfo.scala -> C:\Users\saiprasad.mahadevan\.gradle\caches\modules-2\files-2.1\org.hibernate.javax.persistence\hibernate-jpa-2.1-api\1.0.0.Final\5e731d961297e5a07290bfaf3db1fbc8bbbf405a\hibernate-jpa-2.1-api-1.0.0.Final.jar
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\dto\UserInfo.scala -> C:\Users\saiprasad.mahadevan\.gradle\caches\modules-2\files-2.1\org.hibernate\hibernate-validator\5.3.5.Final\622a9bcef2eed6d41b5b8e0662c36212009e375\hibernate-validator-5.3.5.Final.jar
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\dto\UserInfo.scala -> C:\Users\saiprasad.mahadevan\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.12.2\fe9780170207ebdabd4ac5bb335c82bd0aead480\scala-library-2.12.2.jar
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\repository\UserRepository.scala -> C:\Program Files\Java\jdk1.8.0_162\jre\lib\rt.jar
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\repository\UserRepository.scala -> C:\Users\saiprasad.mahadevan\.gradle\caches\modules-2\files-2.1\org.springframework.data\spring-data-commons\1.13.3.RELEASE\f8be49f9564b7b8736d8f1ebb55bbf4997c29514\spring-data-commons-1.13.3.RELEASE.jar
+source dependencies:
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\Controller\UserController.scala -> D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\dto\UserInfo.scala
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\Controller\UserController.scala -> D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\repository\UserRepository.scala
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\DbConfig.scala -> D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\dto\UserInfo.scala
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\DbConfig.scala -> D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\repository\UserRepository.scala
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\repository\UserRepository.scala -> D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\dto\UserInfo.scala
+external dependencies:
+class names:
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\Application.scala -> com.scala.demo.Application
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\Application.scala -> com.scala.demo.Application$
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\Application.scala -> com.scala.demo.Application$delayedInit$body
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\AppStarter.scala -> com.scala.demo.AppStarter
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\Controller\RootController.scala -> com.scala.demo.Controller.RootController
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\Controller\UserController.scala -> com.scala.demo.Controller.UserController
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\DbConfig.scala -> com.scala.demo.DbConfig
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\dto\UserInfo.scala -> com.scala.demo.dto.UserInfo
+   D:\workspace\poc1_dem\ScalaDemo\src\main\scala\com\scala\demo\repository\UserRepository.scala -> com.scala.demo.repository.UserRepository
